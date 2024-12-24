@@ -213,8 +213,8 @@ transforms = {}
 // This sets the "Proof of Origin Token" and visitor data to use when playing back YouTube videos.
 // It is recommend to obtain a PO token to avoid getting IP banned from YouTube.
 
-ytpotoken = "MnQZVmDlULk4_BluZMclUrQW1z6dOUlBx_V0vHKkwa7RzqHy0Bdwl6I4hGpjzZZKEBPeeBeHqfrZXkZ9AFYUNxxFDzGl7ubn_BaEtueFW2_IOJdqU2yK6SHfQf8ShCqUHm3hYRC_MrNbrScso6aoz-ECE7VQIw=="
-ytvisitordata = "CgtnZHpZMmpSQzVJRSi0iqy7BjIKCgJSVRIEGgAgKA%3D%3D"
+ytpotoken = "MnSJ11HpnDTo4InvHOvI8uzSUqUSNTniPofi5BP84qHQLCGLIutcBAFNfwP7BFvjt1LJT1XS3RlNNLiMuZQ3h_4R69C8LJPPUO5FkH_WKDkCYjmg3Q6VSfbOqtgMEmFahBNVtKk9kgQ-WTAi_zFxduc34rQo8Q=="
+ytvisitordata = "Cgtpd19xNzd3dmREMCjgka27BjIKCgJSVRIEGgAgYg%3D%3D"
 
 
 // This configures the routing planner to use for IP rotation on YouTube.
